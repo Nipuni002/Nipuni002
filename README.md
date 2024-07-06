@@ -5,7 +5,7 @@
 
 - 🤝 I’m studying at **SLIIT**
 
-- 📫 How to reach me **nipunithakshilaperera@gmail.com**
+- 📫 How to reach me **thakshilaperera37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
