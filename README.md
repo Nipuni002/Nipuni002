@@ -5,7 +5,7 @@
 - 🤝 I’m studying at **SLIIT**
 
 - 📫 How to reach me **nipunithakshilaperera@gmail.com**
-<img align="right" src= "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height="300" width="400" />
+<img align="right" src= "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height="300" width="350" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thakshilaperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakshilaperera" height="30" width="40" /></a>
