@@ -1,6 +1,6 @@
 <img src= "https://camo.githubusercontent.com/aefab7acbe27fae34db36304513a2a34f795663d6217c1ebc6459504d2fa4587/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38382f31352f36332f38383135363364363434346233373066613463656561306333313833626234632e676966" height="100" width="1000"/>
 <h1 align="center">Hi 👋, I'm Nipuni Perera</h1>
-<h3 align="center">An IT Undergraduate student from Sri Lanka</h3>
+<h3 align="center">Software Engineering Undergraduate student from Sri Lanka</h3>
 
 - 🤝 I’m studying at **SLIIT**
 
