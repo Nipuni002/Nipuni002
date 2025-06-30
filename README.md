@@ -8,7 +8,7 @@
 <img align="right" src= "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height="300" width="350" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thakshila-perera-b70953292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakshilaperera" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thakshilanp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakshilaperera" height="30" width="40" /></a>
 <a href="https://fb.com/thakshilaperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thakshilaperera" height="30" width="40" /></a>
 <a href="https://instagram.com/thakshilaperera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakshilaperera" height="30" width="40" /></a>
 </p>
