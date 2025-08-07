@@ -4,7 +4,9 @@
 
 - 🤝 I’m studying at **SLIIT**
 
-- 📫 How to reach me **nipunithakshilaperera@gmail.com**
+- 👤 How to reach me **nipunithakshilaperera@gmail.com**
+  
+- 👨‍💻 [My Portfolio](https://my-portfolio-kohl-xi-53.vercel.app/) 
 <img align="right" src= "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height="300" width="350" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
