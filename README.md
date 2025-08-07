@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nipuni Thakshila Perera</h1>
 <h3 align="center">Software Engineering undergraduate student from Sri Lanka</h3>
 
-- 🤝 I’m studying at **SLIIT**
+- 🎓 I’m studying at **SLIIT**
 
-- 👤 How to reach me **nipunithakshilaperera@gmail.com**
+- 🤝 How to reach me **nipunithakshilaperera@gmail.com**
   
 - 👨‍💻 [My Portfolio](https://my-portfolio-kohl-xi-53.vercel.app/) 
 <img align="right" src= "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height="300" width="350" />
