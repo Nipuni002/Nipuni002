@@ -22,6 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuni002&show_icons=true&locale=en&bg_color=1e1e1e&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="nipuni002" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni002&background=1e1e1e&stroke=58a6ff&ring=58a6ff&fire=ff5e00&currStreakNum=ffffff&sideNums=58a6ff" alt="nipuni002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni002&background=1e1e1e&stroke=58a6ff&ring=58a6ff&fire=ff5e00&currStreakNum=ffffff&sideNums=58a6ff" alt="nipuni002" />
+</p>
 
 
