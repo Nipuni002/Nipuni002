@@ -29,7 +29,6 @@
 **Email:** thakshilaperera37@gmail.com  
 **Location:** Sri Lanka  
 **University:** Sri Lankan Institute of Information Technology  
-**Portfolio:** [my-portfolio-kohl-xi-53.vercel.app](https://my-portfolio-kohl-xi-53.vercel.app/)
 
 ## 🚀 About Me
 I'm a passionate Software Engineering undergraduate specializing in full-stack development with a growing expertise in DevOps practices. I enjoy building scalable applications, implementing CI/CD pipelines, and containerizing applications for efficient deployment.
