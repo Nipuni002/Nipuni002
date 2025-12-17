@@ -90,29 +90,4 @@ I'm a passionate Software Engineering undergraduate specializing in full-stack d
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni002&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff5e00&currStreakNum=ffffff&sideNums=58a6ff" alt="GitHub Streak"/>
   </a>
   
-</div>
 
-## 🔧 Recent Projects & Experience
-- **Containerized Applications** using Docker and Kubernetes
-- **CI/CD Pipeline Implementation** for automated testing and deployment
-- **Full-Stack Development** with React, Spring Boot, and PostgreSQL
-- **Cross-Platform Mobile Apps** using React Native
-- **Microservices Architecture** with container orchestration
-
-## 📫 How to Reach Me
-<p align="center">
-  <strong>📧 Email:</strong> thakshilaperera37@gmail.com<br>
-  <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/thakshilanp" target="_blank">linkedin.com/in/thakshilanp</a><br>
-  <strong>🌐 Portfolio:</strong> <a href="https://my-portfolio-kohl-xi-53.vercel.app/" target="_blank">my-portfolio-kohl-xi-53.vercel.app</a>
-</p>
-
----
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=nipuni002&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nipuni002?label=Followers&style=social" alt="GitHub Followers" />
-  
-  <p>⚡ <strong>Currently learning:</strong> Advanced Kubernetes, Cloud Native Technologies</p>
-  
-</div>
