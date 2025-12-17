@@ -1,27 +1,118 @@
-<img src= "https://camo.githubusercontent.com/aefab7acbe27fae34db36304513a2a34f795663d6217c1ebc6459504d2fa4587/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38382f31352f36332f38383135363364363434346233373066613463656561306333313833626234632e676966" height="100" width="1000"/>
-<h1 align="center">Hi 👋, I'm Nipuni Thakshila Perera</h1>
-<h3 align="center">Software Engineering undergraduate student from Sri Lanka</h3>
+<img src="https://camo.githubusercontent.com/aefab7acbe27fae34db36304513a2a34f795663d6217c1ebc6459504d2fa4587/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38382f31352f36332f38383135363364363434346233373066613463656561306333313833626234632e676966" alt="Banner" style="width: 100%; height: 120px; object-fit: cover;"/>
 
-- 🎓 I’m studying at **SLIIT**
-
-- 🤝 How to reach me **thakshilaperera37@gmail.com**
+<div align="center">
   
-- 👨‍💻 [My Portfolio](https://my-portfolio-kohl-xi-53.vercel.app/) 
-<img align="right" src= "https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" height="300" width="350" />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thakshilanp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thakshilaperera" height="30" width="40" /></a>
+  # Hi, I'm Nipuni Thakshila Perera 👋
+  
+  ### 🎓 Software Engineering Undergraduate | SLIIT
+  ### 💻 Full-Stack Developer 
+  
+  <p>
+    <a href="https://my-portfolio-kohl-xi-53.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://www.linkedin.com/in/thakshilanp" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:thakshilaperera37@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  
+</div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif" alt="Coding Animation" height="280" />
+</div>
+
+## 📬 Contact Information
+**Email:** thakshilaperera37@gmail.com  
+**Location:** Sri Lanka  
+**University:** Sri Lankan Institute of Information Technology  
+**Portfolio:** [my-portfolio-kohl-xi-53.vercel.app](https://my-portfolio-kohl-xi-53.vercel.app/)
+
+## 🚀 About Me
+I'm a passionate Software Engineering undergraduate specializing in full-stack development with a growing expertise in DevOps practices. I enjoy building scalable applications, implementing CI/CD pipelines, and containerizing applications for efficient deployment.
+
+## 🛠️ Technical Expertise
+
+### **DevOps & Cloud Technologies**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Mobile Development**
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### **Programming Languages**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+  <a href="https://github.com/nipuni002">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nipuni002&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/nipuni002">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni002&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css" alt="Top Languages"/>
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/nipuni002">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni002&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff5e00&currStreakNum=ffffff&sideNums=58a6ff" alt="GitHub Streak"/>
+  </a>
+  
+</div>
+
+## 🔧 Recent Projects & Experience
+- **Containerized Applications** using Docker and Kubernetes
+- **CI/CD Pipeline Implementation** for automated testing and deployment
+- **Full-Stack Development** with React, Spring Boot, and PostgreSQL
+- **Cross-Platform Mobile Apps** using React Native
+- **Microservices Architecture** with container orchestration
+
+## 📫 How to Reach Me
+<p align="center">
+  <strong>📧 Email:</strong> thakshilaperera37@gmail.com<br>
+  <strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/thakshilanp" target="_blank">linkedin.com/in/thakshilanp</a><br>
+  <strong>🌐 Portfolio:</strong> <a href="https://my-portfolio-kohl-xi-53.vercel.app/" target="_blank">my-portfolio-kohl-xi-53.vercel.app</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipuni002&show_icons=true&locale=en&layout=compact&bg_color=1e1e1e&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="nipuni002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nipuni002&show_icons=true&locale=en&bg_color=1e1e1e&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff" alt="nipuni002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni002&background=1e1e1e&stroke=58a6ff&ring=58a6ff&fire=ff5e00&currStreakNum=ffffff&sideNums=58a6ff" alt="nipuni002" /></p>
-
-
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=nipuni002&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nipuni002?label=Followers&style=social" alt="GitHub Followers" />
+  
+  <p>⚡ <strong>Currently learning:</strong> Advanced Kubernetes, Cloud Native Technologies</p>
+  
+</div>
