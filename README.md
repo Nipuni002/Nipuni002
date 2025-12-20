@@ -4,7 +4,7 @@
   
   # Hi, I'm Nipuni Thakshila Perera 👋
   
-  ### 🎓 Software Engineering Undergraduate | SLIIT
+  ### 🎓 Software Engineering Undergraduate @ SLIIT
   ### 💻 Full-Stack Developer 
   
   <p>
@@ -28,10 +28,10 @@
 ## 📬 Contact Information
 **Email:** thakshilaperera37@gmail.com  
 **Location:** Sri Lanka  
-**University:** Sri Lankan Institute of Information Technology  
+**University:** Sri Lankan Institute of Information Technology (SLIIT) 
 
 ## 🚀 About Me
-I'm a passionate Software Engineering undergraduate specializing in full-stack development with a growing expertise in DevOps practices. I enjoy building scalable applications, implementing CI/CD pipelines, and containerizing applications for efficient deployment.
+I'm a passionate Software Engineering undergraduate specializing in full-stack development with expertise in DevOps practices and AI/ML engineering. I enjoy building scalable applications, implementing CI/CD pipelines, and creating intelligent systems with modern AI technologies.
 
 ## 🛠️ Technical Expertise
 
@@ -42,9 +42,11 @@ I'm a passionate Software Engineering undergraduate specializing in full-stack d
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### **Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -53,14 +55,27 @@ I'm a passionate Software Engineering undergraduate specializing in full-stack d
 ### **Backend Development**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **AI/ML & LLM Technologies**
+![LangChain](https://img.shields.io/badge/LangChain-00A67D?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-FF6B6B?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4088?style=for-the-badge&logo=vectorlogozone&logoColor=white)
+
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4088?style=for-the-badge&logo=vectorlogozone&logoColor=white)
 
 ### **Mobile Development**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -89,4 +104,5 @@ I'm a passionate Software Engineering undergraduate specializing in full-stack d
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni002&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff5e00&currStreakNum=ffffff&sideNums=58a6ff" alt="GitHub Streak"/>
   </a>
   
+</div>
 
