@@ -85,24 +85,16 @@ I'm a passionate Software Engineering undergraduate specializing in full-stack d
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-## 📈 GitHub Analytics
+---
+## 📊 GitHub Statistics
 
-<div align="center">
-  
-  <a href="https://github.com/nipuni002">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nipuni002&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/nipuni002">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuni002&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=html,css" alt="Top Languages"/>
-  </a>
-  
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nipuni002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nipuni002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</p>
 
-<div align="center">
-  
-  <a href="https://github.com/nipuni002">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nipuni002&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff5e00&currStreakNum=ffffff&sideNums=58a6ff" alt="GitHub Streak"/>
-  </a>
-  
-</div>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app?user=nipuni002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
