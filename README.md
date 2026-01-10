@@ -28,7 +28,7 @@
 ## 📬 Contact Information
 **Email:** thakshilaperera37@gmail.com  
 **Location:** Sri Lanka  
-**University:** Sri Lankan Institute of Information Technology (SLIIT) 
+**University:** Sri Lanka Institute of Information Technology (SLIIT) 
 
 ## 🚀 About Me
 I'm a passionate Software Engineering undergraduate specializing in full-stack development with expertise in DevOps practices and AI/ML engineering. I enjoy building scalable applications, implementing CI/CD pipelines, and creating intelligent systems with modern AI technologies.
